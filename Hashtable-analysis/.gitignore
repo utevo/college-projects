@@ -1,0 +1,9 @@
+.vscode/
+hashtableanalys/data/*
+**/__pycache__
+docs/_build/
+docs/locale/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
