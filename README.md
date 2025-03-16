@@ -1,6 +1,6 @@
 # college-projects
 
-🎓 Various projects from studies not worth forgetting :)
+🎓 Various projects from studies not worth forgetting
 
 ## a-star-prolog
 ⭐ A* algorithm written in Prolog language.
